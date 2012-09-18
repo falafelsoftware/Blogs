@@ -1,0 +1,1 @@
+Delete this ~/Services folder once real web services are working via MVC4 / WebAPI

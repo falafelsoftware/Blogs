@@ -1,0 +1,20 @@
+<div class="detail">
+	<img class="thumb" src="<%= require.toUrl('../Content/images/logo.' + conference.BaseName + '.png') %>" />
+	<h3><%= conference.Name %></h3>
+		<p class="description"><%= conference.Description %></p>
+	<hr />
+	<ul class="social-contact">
+		<li><label>Start Date</label> <%= moment(conference.StartDate).format('MMM DD, YYYY') %></li>
+		<li><label>End Date</label> <%= moment(conference.EndDate).format('MMM DD, YYYY') %></li>
+		<li><label>Website</label> <%= conference.WebSiteURL %></li>
+		<li><label>RSS</label> <%= conference.RSSURL %></li>
+		<li><label>Facebook</label> <%= conference.FacebookURL %></li>
+		<li><label>Flickr</label> <%= conference.FlickrHandle %></li>
+		<li><label>LinkedIn</label> <%= conference.LinkedInURL %></li>
+		<li><label>Twitter</label> @<%= conference.TwitterScreenName %></li>
+	</ul>
+	<hr />
+	<label>Location</label> <%= conference.LocationFriendly %>
+	<br /><br />
+	<img class="map" src="http://maps.googleapis.com/maps/api/staticmap?zoom=14&amp;size=512x512&amp;maptype=roadmap&amp;markers=color:red%7Ccolor:red%7C<%= conference.Latitude %>,<%= conference.Longitude %>&amp;sensor=false" />
+</div>

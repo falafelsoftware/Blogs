@@ -1,0 +1,57 @@
+#nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#nav a:hover {
+    text-decoration: underline;
+}
+
+#main {
+    background-image: url('../images/back.jpg');
+}
+
+#main h3 {
+    color: #fff;
+}
+
+.list > li {
+    float: left;
+    width: 240px;
+    height: 215px;
+    margin: 25px 0 0 25px;
+    padding: 12px 7px;
+    border: 1px dotted #333;
+    background-color: #fff;
+    cursor: pointer;
+    color: #333;
+}
+
+.list > li .title {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.list > li .date,
+.list > li .location {
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+.list > li .description {
+    margin-top: 5px;
+}
+
+.list > li .thumb img {
+    width: 150px;
+    height: 70px;
+    margin-bottom: 7px;
+}
+
+.detail .thumb {
+    float: right;
+    border: 1px dotted #CCC;
+    margin: 0 0 7px 7px;
+}

@@ -1,0 +1,12 @@
+<h3>Conference List</h3>
+<ul class="list">
+	<% $.each(conferences, function (i, conference) { %>
+	    <li <%= (el) -> el.data('conference', conference) %>>
+		    <div class="thumb"><img src="<%= require.toUrl('../Content/images/logo.' + conference.BaseName + '.png') %>" /></div>
+		    <div class="title"><%= conference.Name %></div>
+		    <div class="date"><%= moment(conference.StartDate).format('MMM DD, YYYY') %> - <%= moment(conference.EndDate).format('MMM DD, YYYY') %></div>
+		    <div class="location"><%= conference.LocationFriendly %></div>
+		    <div class="description"><%= conference.Description %></div>
+	    </li>
+	<% }) %>
+</ul>

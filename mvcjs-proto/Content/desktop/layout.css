@@ -1,0 +1,21 @@
+#header h1 {
+    margin: 40px 0 0;
+}
+
+#nav a {
+    float: left;
+    margin: 10px 20px 20px 0;
+}
+
+#main {
+    padding: 20px;
+    color: #fff;
+}
+
+#footer {
+    padding: 15px;
+}
+
+#footer .copyright {
+    float: right;
+}

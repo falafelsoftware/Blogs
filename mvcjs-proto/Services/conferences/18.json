@@ -1,0 +1,1886 @@
+{
+    "Conference": {
+        "Audiences": [
+            {
+                "ID": 13,
+                "ModifiedOn": "/Date(1330020531740+0000)/",
+                "Name": "Artist"
+            },
+            {
+                "ID": 14,
+                "ModifiedOn": "/Date(1330020531817+0000)/",
+                "Name": "Developer"
+            },
+            {
+                "ID": 15,
+                "ModifiedOn": "/Date(1330020531903+0000)/",
+                "Name": "Manager"
+            }
+        ],
+        "ConferenceID": 18,
+        "Levels": [
+            {
+                "ID": 35,
+                "ModifiedOn": "/Date(1330020526957+0000)/",
+                "Description": "",
+                "Name": "100"
+            },
+            {
+                "ID": 36,
+                "ModifiedOn": "/Date(1330020527037+0000)/",
+                "Description": "",
+                "Name": "200"
+            },
+            {
+                "ID": 37,
+                "ModifiedOn": "/Date(1330020527123+0000)/",
+                "Description": "",
+                "Name": "300"
+            },
+            {
+                "ID": 38,
+                "ModifiedOn": "/Date(1330020527210+0000)/",
+                "Description": "",
+                "Name": "400"
+            }
+        ],
+        "Resources": [
+            {
+                "ID": 79,
+                "ModifiedOn": "/Date(1329957471093+0000)/",
+                "IsLive": false,
+                "Name": "ExhibitHall",
+                "ResourceType": 0,
+                "SessionID": null,
+                "URL": "http://cdn.eventboard.falafel.com/falafelcondemo/resource79.png"
+            },
+            {
+                "ID": 46,
+                "ModifiedOn": "/Date(1321572777803+0000)/",
+                "IsLive": false,
+                "Name": "Floor1",
+                "ResourceType": 0,
+                "SessionID": null,
+                "URL": "http://cdn.eventboard.falafel.com/falafelcondemo/resource46.png"
+            },
+            {
+                "ID": 47,
+                "ModifiedOn": "/Date(1321573182740+0000)/",
+                "IsLive": false,
+                "Name": "Floor2",
+                "ResourceType": 0,
+                "SessionID": null,
+                "URL": "http://cdn.eventboard.falafel.com/falafelcondemo/resource47.png"
+            }
+        ],
+        "Rooms": [
+            {
+                "ID": 194,
+                "ModifiedOn": "/Date(1330020532410+0000)/",
+                "Building": "Main Office",
+                "Capacity": 0,
+                "Latitude": 0,
+                "Longitude": 0,
+                "Name": "1001"
+            },
+            {
+                "ID": 196,
+                "ModifiedOn": "/Date(1330020532580+0000)/",
+                "Building": "Main Office",
+                "Capacity": 0,
+                "Latitude": 0,
+                "Longitude": 0,
+                "Name": "15A"
+            },
+            {
+                "ID": 197,
+                "ModifiedOn": "/Date(1330020532677+0000)/",
+                "Building": "Main Office",
+                "Capacity": 0,
+                "Latitude": 0,
+                "Longitude": 0,
+                "Name": "15B"
+            },
+            {
+                "ID": 195,
+                "ModifiedOn": "/Date(1330020532493+0000)/",
+                "Building": "Annex",
+                "Capacity": 0,
+                "Latitude": 0,
+                "Longitude": 0,
+                "Name": "2050"
+            },
+            {
+                "ID": 198,
+                "ModifiedOn": "/Date(1330020532770+0000)/",
+                "Building": "Main Office",
+                "Capacity": 0,
+                "Latitude": 0,
+                "Longitude": 0,
+                "Name": "3000"
+            },
+            {
+                "ID": 208,
+                "ModifiedOn": "/Date(1330020532940+0000)/",
+                "Building": "Annex",
+                "Capacity": 0,
+                "Latitude": 0,
+                "Longitude": 0,
+                "Name": "Auditorium"
+            },
+            {
+                "ID": 207,
+                "ModifiedOn": "/Date(1330020532857+0000)/",
+                "Building": "Annex",
+                "Capacity": 0,
+                "Latitude": 0,
+                "Longitude": 0,
+                "Name": "Exhibit Hall"
+            }
+        ],
+        "SessionAudiences": [
+            {
+                "AudienceID": 15,
+                "SessionID": 2220
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2221
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2222
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2223
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2224
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2225
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2226
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2227
+            },
+            {
+                "AudienceID": 13,
+                "SessionID": 2229
+            },
+            {
+                "AudienceID": 13,
+                "SessionID": 2230
+            },
+            {
+                "AudienceID": 13,
+                "SessionID": 2231
+            },
+            {
+                "AudienceID": 13,
+                "SessionID": 2232
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2232
+            },
+            {
+                "AudienceID": 15,
+                "SessionID": 2233
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2234
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2235
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2236
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2237
+            },
+            {
+                "AudienceID": 15,
+                "SessionID": 2238
+            },
+            {
+                "AudienceID": 15,
+                "SessionID": 2239
+            },
+            {
+                "AudienceID": 13,
+                "SessionID": 2280
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2280
+            },
+            {
+                "AudienceID": 15,
+                "SessionID": 2280
+            },
+            {
+                "AudienceID": 13,
+                "SessionID": 2281
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2281
+            },
+            {
+                "AudienceID": 15,
+                "SessionID": 2281
+            },
+            {
+                "AudienceID": 13,
+                "SessionID": 2282
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2282
+            },
+            {
+                "AudienceID": 15,
+                "SessionID": 2282
+            },
+            {
+                "AudienceID": 13,
+                "SessionID": 2283
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 2283
+            },
+            {
+                "AudienceID": 15,
+                "SessionID": 2283
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 4072
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 4875
+            },
+            {
+                "AudienceID": 13,
+                "SessionID": 4876
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 4876
+            },
+            {
+                "AudienceID": 13,
+                "SessionID": 6447
+            },
+            {
+                "AudienceID": 14,
+                "SessionID": 6447
+            },
+            {
+                "AudienceID": 15,
+                "SessionID": 6447
+            }
+        ],
+        "SessionSpeakers": [
+            {
+                "SessionID": 2220,
+                "SpeakerID": 1982
+            },
+            {
+                "SessionID": 2220,
+                "SpeakerID": 1984
+            },
+            {
+                "SessionID": 2221,
+                "SpeakerID": 1983
+            },
+            {
+                "SessionID": 2222,
+                "SpeakerID": 1984
+            },
+            {
+                "SessionID": 2223,
+                "SpeakerID": 1982
+            },
+            {
+                "SessionID": 2224,
+                "SpeakerID": 1988
+            },
+            {
+                "SessionID": 2225,
+                "SpeakerID": 1987
+            },
+            {
+                "SessionID": 2226,
+                "SpeakerID": 1985
+            },
+            {
+                "SessionID": 2227,
+                "SpeakerID": 1994
+            },
+            {
+                "SessionID": 2229,
+                "SpeakerID": 1996
+            },
+            {
+                "SessionID": 2230,
+                "SpeakerID": 1989
+            },
+            {
+                "SessionID": 2231,
+                "SpeakerID": 1993
+            },
+            {
+                "SessionID": 2232,
+                "SpeakerID": 1985
+            },
+            {
+                "SessionID": 2232,
+                "SpeakerID": 1986
+            },
+            {
+                "SessionID": 2232,
+                "SpeakerID": 1992
+            },
+            {
+                "SessionID": 2233,
+                "SpeakerID": 1981
+            },
+            {
+                "SessionID": 2234,
+                "SpeakerID": 1995
+            },
+            {
+                "SessionID": 2235,
+                "SpeakerID": 1981
+            },
+            {
+                "SessionID": 2236,
+                "SpeakerID": 1991
+            },
+            {
+                "SessionID": 2237,
+                "SpeakerID": 1990
+            },
+            {
+                "SessionID": 2238,
+                "SpeakerID": 1987
+            },
+            {
+                "SessionID": 2238,
+                "SpeakerID": 1988
+            },
+            {
+                "SessionID": 2239,
+                "SpeakerID": 1992
+            },
+            {
+                "SessionID": 2281,
+                "SpeakerID": 1981
+            },
+            {
+                "SessionID": 4072,
+                "SpeakerID": 1997
+            },
+            {
+                "SessionID": 4875,
+                "SpeakerID": 1988
+            },
+            {
+                "SessionID": 4876,
+                "SpeakerID": 1993
+            },
+            {
+                "SessionID": 6447,
+                "SpeakerID": 1990
+            }
+        ],
+        "SessionTags": [
+            {
+                "SessionID": 2220,
+                "TagID": 2893
+            },
+            {
+                "SessionID": 2220,
+                "TagID": 2894
+            },
+            {
+                "SessionID": 2220,
+                "TagID": 2895
+            },
+            {
+                "SessionID": 2221,
+                "TagID": 2894
+            },
+            {
+                "SessionID": 2222,
+                "TagID": 2893
+            },
+            {
+                "SessionID": 2223,
+                "TagID": 2895
+            },
+            {
+                "SessionID": 2224,
+                "TagID": 2896
+            },
+            {
+                "SessionID": 2225,
+                "TagID": 2909
+            },
+            {
+                "SessionID": 2226,
+                "TagID": 2897
+            },
+            {
+                "SessionID": 2226,
+                "TagID": 2899
+            },
+            {
+                "SessionID": 2227,
+                "TagID": 2897
+            },
+            {
+                "SessionID": 2227,
+                "TagID": 2899
+            },
+            {
+                "SessionID": 2227,
+                "TagID": 2913
+            },
+            {
+                "SessionID": 2229,
+                "TagID": 2905
+            },
+            {
+                "SessionID": 2230,
+                "TagID": 2898
+            },
+            {
+                "SessionID": 2231,
+                "TagID": 2897
+            },
+            {
+                "SessionID": 2231,
+                "TagID": 2898
+            },
+            {
+                "SessionID": 2231,
+                "TagID": 2902
+            },
+            {
+                "SessionID": 2231,
+                "TagID": 2909
+            },
+            {
+                "SessionID": 2232,
+                "TagID": 2903
+            },
+            {
+                "SessionID": 2232,
+                "TagID": 2906
+            },
+            {
+                "SessionID": 2232,
+                "TagID": 2911
+            },
+            {
+                "SessionID": 2233,
+                "TagID": 2903
+            },
+            {
+                "SessionID": 2234,
+                "TagID": 2903
+            },
+            {
+                "SessionID": 2235,
+                "TagID": 2903
+            },
+            {
+                "SessionID": 2235,
+                "TagID": 2908
+            },
+            {
+                "SessionID": 2236,
+                "TagID": 2917
+            },
+            {
+                "SessionID": 2237,
+                "TagID": 2910
+            },
+            {
+                "SessionID": 2239,
+                "TagID": 2915
+            },
+            {
+                "SessionID": 2281,
+                "TagID": 2893
+            },
+            {
+                "SessionID": 2281,
+                "TagID": 2894
+            },
+            {
+                "SessionID": 2281,
+                "TagID": 2895
+            },
+            {
+                "SessionID": 4072,
+                "TagID": 2893
+            },
+            {
+                "SessionID": 4072,
+                "TagID": 2896
+            },
+            {
+                "SessionID": 4072,
+                "TagID": 2897
+            },
+            {
+                "SessionID": 4875,
+                "TagID": 2893
+            },
+            {
+                "SessionID": 4876,
+                "TagID": 2902
+            },
+            {
+                "SessionID": 4876,
+                "TagID": 2910
+            },
+            {
+                "SessionID": 6447,
+                "TagID": 2896
+            },
+            {
+                "SessionID": 6447,
+                "TagID": 2897
+            },
+            {
+                "SessionID": 6447,
+                "TagID": 2898
+            },
+            {
+                "SessionID": 6447,
+                "TagID": 2899
+            },
+            {
+                "SessionID": 6447,
+                "TagID": 2902
+            },
+            {
+                "SessionID": 6447,
+                "TagID": 2910
+            }
+        ],
+        "SessionTracks": [
+            {
+                "SessionID": 2220,
+                "TrackID": 121
+            },
+            {
+                "SessionID": 2221,
+                "TrackID": 121
+            },
+            {
+                "SessionID": 2222,
+                "TrackID": 121
+            },
+            {
+                "SessionID": 2223,
+                "TrackID": 121
+            },
+            {
+                "SessionID": 2224,
+                "TrackID": 121
+            },
+            {
+                "SessionID": 2224,
+                "TrackID": 122
+            },
+            {
+                "SessionID": 2225,
+                "TrackID": 122
+            },
+            {
+                "SessionID": 2226,
+                "TrackID": 122
+            },
+            {
+                "SessionID": 2227,
+                "TrackID": 122
+            },
+            {
+                "SessionID": 2229,
+                "TrackID": 124
+            },
+            {
+                "SessionID": 2230,
+                "TrackID": 124
+            },
+            {
+                "SessionID": 2231,
+                "TrackID": 124
+            },
+            {
+                "SessionID": 2232,
+                "TrackID": 123
+            },
+            {
+                "SessionID": 2233,
+                "TrackID": 123
+            },
+            {
+                "SessionID": 2234,
+                "TrackID": 123
+            },
+            {
+                "SessionID": 2235,
+                "TrackID": 123
+            },
+            {
+                "SessionID": 2236,
+                "TrackID": 123
+            },
+            {
+                "SessionID": 2237,
+                "TrackID": 122
+            },
+            {
+                "SessionID": 2238,
+                "TrackID": 122
+            },
+            {
+                "SessionID": 2239,
+                "TrackID": 122
+            },
+            {
+                "SessionID": 2280,
+                "TrackID": 121
+            },
+            {
+                "SessionID": 2280,
+                "TrackID": 124
+            },
+            {
+                "SessionID": 4072,
+                "TrackID": 122
+            },
+            {
+                "SessionID": 4806,
+                "TrackID": 123
+            },
+            {
+                "SessionID": 4875,
+                "TrackID": 121
+            },
+            {
+                "SessionID": 4876,
+                "TrackID": 124
+            },
+            {
+                "SessionID": 6447,
+                "TrackID": 122
+            }
+        ],
+        "SessionTypes": [
+            {
+                "ID": 27,
+                "ModifiedOn": "/Date(1330020526393+0000)/",
+                "Description": "Join us for this mystery event in Santa Cruz",
+                "Name": "Attendee Party",
+                "ShowOnAgenda": true
+            },
+            {
+                "ID": 2,
+                "ModifiedOn": "/Date(1330020526040+0000)/",
+                "Description": "Birds of a feather sessions are groups of like minded people that meet in various locations around the venue.",
+                "Name": "Birds of a Feather",
+                "ShowOnAgenda": false
+            },
+            {
+                "ID": 3,
+                "ModifiedOn": "/Date(1330020526137+0000)/",
+                "Description": "Hands on Labs give you the opportunity to sit down and work your way through various topics at your own pace. Lab books, PCs and Instructors are available to help you.",
+                "Name": "Hands on Labs",
+                "ShowOnAgenda": false
+            },
+            {
+                "ID": 25,
+                "ModifiedOn": "/Date(1330020526223+0000)/",
+                "Description": "This is the main conference keynote, held in Training Room A",
+                "Name": "Keynote",
+                "ShowOnAgenda": true
+            },
+            {
+                "ID": 26,
+                "ModifiedOn": "/Date(1330020526307+0000)/",
+                "Description": "Lunches are served at Paradise Beach Bar and Grille",
+                "Name": "Lunch",
+                "ShowOnAgenda": true
+            },
+            {
+                "ID": 28,
+                "ModifiedOn": "/Date(1330020526480+0000)/",
+                "Description": "Registration is open every morning in the upstairs lobby area.",
+                "Name": "Registration",
+                "ShowOnAgenda": true
+            },
+            {
+                "ID": 1,
+                "ModifiedOn": "/Date(1330020525953+0000)/",
+                "Description": "90 minute sessions hosted by experts in the field, convering the main content of the conference.",
+                "Name": "Regular Session",
+                "ShowOnAgenda": false
+            }
+        ],
+        "Sessions": [
+            {
+                "ID": 2280,
+                "ModifiedOn": "/Date(1320997382683+0000)/",
+                "Code": null,
+                "Description": "Pick up your conference badge.",
+                "IsSponsorSession": false,
+                "LevelID": null,
+                "LocationID": 208,
+                "Name": "Registration",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 28,
+                "TimeSlotID": 156,
+                "UKey": "ce9a195a-a3f6-4461-82ea-38713dc0208c"
+            },
+            {
+                "ID": 2281,
+                "ModifiedOn": "/Date(1320996610657+0000)/",
+                "Code": null,
+                "Description": "The C.E.O. of Falafel Software paints a picture of the mobile application market.",
+                "IsSponsorSession": false,
+                "LevelID": null,
+                "LocationID": 208,
+                "Name": "Keynote: The state of the mobile industry",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 25,
+                "TimeSlotID": 158,
+                "UKey": "f16ffa36-a030-472f-9bde-81b184698963"
+            },
+            {
+                "ID": 2224,
+                "ModifiedOn": "/Date(1315533083590+0000)/",
+                "Code": "HOL-002",
+                "Description": "The world famous Rachel Hagerman explains the HTML standard as it stands now and what is new in HTML 5. Learn about some of HTML 5's greatest advantages.",
+                "IsSponsorSession": false,
+                "LevelID": 35,
+                "LocationID": 195,
+                "Name": "Introduction to HTML 5",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 3,
+                "TimeSlotID": 157,
+                "UKey": "2bbf9bb0-9135-4292-a6be-f59a6fee6d16"
+            },
+            {
+                "ID": 2220,
+                "ModifiedOn": "/Date(1339801190390+0000)/",
+                "Code": "BOF-001",
+                "Description": "Join Lance and John as they share their experiences building apps on each of the mobile platforms.  The similarities and differences will be explored. http://www.falafe.com",
+                "IsSponsorSession": true,
+                "LevelID": 35,
+                "LocationID": 194,
+                "Name": "Pros and Cons of the Mobile Platforms",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": true,
+                "SessionTypeID": 2,
+                "TimeSlotID": 157,
+                "UKey": "9f645462-fb46-4485-ad3f-f00187c547d8"
+            },
+            {
+                "ID": 6447,
+                "ModifiedOn": "/Date(1329958975150+0000)/",
+                "Code": null,
+                "Description": "Learn how to use Sencha Touch to build responsive mobile and desktop web applications. The Sencha Touch framework is out of this world!",
+                "IsSponsorSession": false,
+                "LevelID": null,
+                "LocationID": 194,
+                "Name": "Sencha Touch Controls",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": null,
+                "TimeSlotID": 157,
+                "UKey": "6c6092fd-c68d-9074-83a8-f34c2aa05aaa"
+            },
+            {
+                "ID": 2232,
+                "ModifiedOn": "/Date(1329853817930+0000)/",
+                "Code": "BOF-002",
+                "Description": "Cummulus? Stratus? Cirrus? No…Microsoft. Did you ever ask yourself, \"What exactly is 'The Cloud'?\" If so, then this session is for you. Peter explains the theory behind the cloud and its practical uses.",
+                "IsSponsorSession": false,
+                "LevelID": 35,
+                "LocationID": 197,
+                "Name": "What is the Cloud?",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": null,
+                "TimeSlotID": 157,
+                "UKey": "75373eae-fe8a-4765-b13a-44e65a0520da"
+            },
+            {
+                "ID": 2236,
+                "ModifiedOn": "/Date(1334160179267+0000)/",
+                "Code": null,
+                "Description": "Jonathan lost a bet and was forced to parse OData by hand without using  any existing components or libraries. He learned two things:  1. Not to bet unless he 100% sure he is right. 2.  A whole lot about OData. The part about OData he will share in this session.",
+                "IsSponsorSession": false,
+                "LevelID": 36,
+                "LocationID": 198,
+                "Name": "Working with OData",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 1,
+                "TimeSlotID": 157,
+                "UKey": "9e96a0f8-91e0-4bae-a1a5-454d111594ed"
+            },
+            {
+                "ID": 2282,
+                "ModifiedOn": "/Date(1333382894150+0000)/",
+                "Code": null,
+                "Description": "Catered buffet in the exhibit hall. Brought to you by our gold sponsors.",
+                "IsSponsorSession": false,
+                "LevelID": null,
+                "LocationID": 207,
+                "Name": "Lunch - day 1",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": null,
+                "TimeSlotID": 159,
+                "UKey": "2fd5f4cb-6c4e-4e56-84c0-262e320a3371"
+            },
+            {
+                "ID": 2225,
+                "ModifiedOn": "/Date(1319821481387+0000)/",
+                "Code": "WD-001",
+                "Description": "Silverlight can be picked up by anyone, but becoming a master takes practice. Bary shows you the techniques you need to be a Silverlight Guru.",
+                "IsSponsorSession": false,
+                "LevelID": null,
+                "LocationID": 195,
+                "Name": "Advanced Silverlight Tips and Tricks",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 1,
+                "TimeSlotID": 160,
+                "UKey": "4b1825c8-2aaf-4273-a916-88d895e2f9f2"
+            },
+            {
+                "ID": 2221,
+                "ModifiedOn": "/Date(1315533083357+0000)/",
+                "Code": "HOL-001",
+                "Description": "All Android superstars start here. Noel will get you up and running doing Android Development in less than an hour.",
+                "IsSponsorSession": false,
+                "LevelID": 36,
+                "LocationID": 194,
+                "Name": "Android Nuts and Bolts",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 3,
+                "TimeSlotID": 160,
+                "UKey": "cb3390f0-12e8-4896-8350-0e10422fd28c"
+            },
+            {
+                "ID": 2233,
+                "ModifiedOn": "/Date(1315533084243+0000)/",
+                "Code": "WA-001",
+                "Description": "Don't miss this comical introduction to Windows Azure. Between laughs, you will learn of the full capabilities of Windows Azure and have the ability to use the cloud on your next project.",
+                "IsSponsorSession": false,
+                "LevelID": 35,
+                "LocationID": 197,
+                "Name": "Meet Windows Azure",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 1,
+                "TimeSlotID": 160,
+                "UKey": "1e4074ce-b5b0-4083-91ae-6cd32c6dfcac"
+            },
+            {
+                "ID": 2229,
+                "ModifiedOn": "/Date(1315533084007+0000)/",
+                "Code": null,
+                "Description": "Expression Blend is Microsoft's tool for designing the UI for various Microsoft technologies. Master the tool, and you will captivate your audience with beautiful user interfaces.",
+                "IsSponsorSession": false,
+                "LevelID": 36,
+                "LocationID": 196,
+                "Name": "Working with Expression Blend",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 1,
+                "TimeSlotID": 160,
+                "UKey": "2e4dad0e-a923-46c6-8279-50811d7979e0"
+            },
+            {
+                "ID": 4806,
+                "ModifiedOn": "/Date(1339800878133+0000)/",
+                "Code": null,
+                "Description": "Enjoy an evening at the famous Santa Cruz Beach Boardwalk, watch the surfers on Steamers Lane! http://www.falafel.com",
+                "IsSponsorSession": false,
+                "LevelID": null,
+                "LocationID": null,
+                "Name": "Beach Boardwalk",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 27,
+                "TimeSlotID": 748,
+                "UKey": "0d4cd6fe-7825-4c6d-8c72-8cb9f85e65e0"
+            },
+            {
+                "ID": 2226,
+                "ModifiedOn": "/Date(1315533083740+0000)/",
+                "Code": "WD-002",
+                "Description": "AJAX is more than a buzzword now, yet many people still only scratch the surface of its potential. Adam shows off some of the best and worst uses of AJAX and then dissects their implementation.",
+                "IsSponsorSession": true,
+                "LevelID": 37,
+                "LocationID": 195,
+                "Name": "AJAX Best Practices",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 1,
+                "TimeSlotID": 161,
+                "UKey": "d18adbb5-e20b-41a7-915f-f8ccbc8c2a59"
+            },
+            {
+                "ID": 2234,
+                "ModifiedOn": "/Date(1315533084317+0000)/",
+                "Code": "WA-002",
+                "Description": "Learn how to use cloud based push notification services to push data to mobile platforms. iPhone and Windows Phone 7 examples will both be built in this session.",
+                "IsSponsorSession": false,
+                "LevelID": 38,
+                "LocationID": 197,
+                "Name": "Cloud Based Push Notifications",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 1,
+                "TimeSlotID": 161,
+                "UKey": "5bc1e69a-9af0-4158-96a3-cf83e4a28471"
+            },
+            {
+                "ID": 2230,
+                "ModifiedOn": "/Date(1316124171290+0000)/",
+                "Code": null,
+                "Description": "Table Layout bad. CSS Good. Gary explains why, and more importantly, how to become a CSS Jedi.",
+                "IsSponsorSession": false,
+                "LevelID": 37,
+                "LocationID": 196,
+                "Name": "CSS-ing your Site",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": true,
+                "SessionTypeID": 1,
+                "TimeSlotID": 161,
+                "UKey": "f264a957-297c-4cde-a8a3-5ef0cd0f399d"
+            },
+            {
+                "ID": 2222,
+                "ModifiedOn": "/Date(1315533083433+0000)/",
+                "Code": "MD-001",
+                "Description": "Objective C can be tough. So can getting your appliction approved for the AppStore. Lance will show the which turns to take at the forks in the road.",
+                "IsSponsorSession": false,
+                "LevelID": 36,
+                "LocationID": 194,
+                "Name": "iPhone Development Dos and Don'ts",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": true,
+                "SessionTypeID": 1,
+                "TimeSlotID": 161,
+                "UKey": "d8ea72b5-fd28-4721-9261-951b46ea5a54"
+            },
+            {
+                "ID": 2283,
+                "ModifiedOn": "/Date(1329780257670+0000)/",
+                "Code": null,
+                "Description": "Grab a boxed lunch and wander the exhibit hall. Be sure to check out.....The Arcadists live on the plaza!",
+                "IsSponsorSession": false,
+                "LevelID": 36,
+                "LocationID": 207,
+                "Name": "Lunch - Day 2",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": null,
+                "TimeSlotID": 162,
+                "UKey": "d5988b76-8b22-42a4-b10b-4f7be0bfce5c"
+            },
+            {
+                "ID": 2227,
+                "ModifiedOn": "/Date(1315533083817+0000)/",
+                "Code": "HOL-003",
+                "Description": "No REST for the Wicked…they still use SOAP. Don't want to be Wicked? Let Scott explain why REST is the way to go and then how to implement a RESTful service.",
+                "IsSponsorSession": false,
+                "LevelID": 36,
+                "LocationID": 195,
+                "Name": "Building RESTful services",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 3,
+                "TimeSlotID": 163,
+                "UKey": "4c95f1ae-caf1-4303-a472-71821b6ecc0d"
+            },
+            {
+                "ID": 2223,
+                "ModifiedOn": "/Date(1315533083510+0000)/",
+                "Code": "MD-002",
+                "Description": "Learn Windows Phone 7 Development from one of the earliest adopters. Proper UI design, offline mode, and app submission will all be covered in this session.",
+                "IsSponsorSession": true,
+                "LevelID": 35,
+                "LocationID": 194,
+                "Name": "Intro to Windows Phone 7 Development",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 1,
+                "TimeSlotID": 163,
+                "UKey": "4d386c84-7647-4b90-9c9c-fe324da71455"
+            },
+            {
+                "ID": 2231,
+                "ModifiedOn": "/Date(1315533084083+0000)/",
+                "Code": null,
+                "Description": "Designers create beautiful user interfaces. Programers create functional apps. Combining the two can be difficult. Learn how to properly skin your ASP.NET and Silverlight apps.",
+                "IsSponsorSession": false,
+                "LevelID": 37,
+                "LocationID": 196,
+                "Name": "Skinning ASP.NET and Silverlight",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 1,
+                "TimeSlotID": 163,
+                "UKey": "060a3b6a-1f1a-428f-9f5b-492658935600"
+            },
+            {
+                "ID": 2235,
+                "ModifiedOn": "/Date(1315533084393+0000)/",
+                "Code": "WA-003",
+                "Description": "The term \"The Cloud\" is a bit cloudy. Lino and John get serious about the cloud and show you how you can use Service Oriented Architectures over the cloud on your enterprise projects.",
+                "IsSponsorSession": false,
+                "LevelID": 38,
+                "LocationID": 197,
+                "Name": "SOA with the Cloud",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 1,
+                "TimeSlotID": 163,
+                "UKey": "aa55e103-197b-48f9-91bd-e505ec8d93a1"
+            },
+            {
+                "ID": 2237,
+                "ModifiedOn": "/Date(1321648310557+0000)/",
+                "Code": null,
+                "Description": "Basem is the undisputed king of Sitefinity modules. Learn the secrets from the king, and have you Sitefinity modules ready for sale by the end of the day.",
+                "IsSponsorSession": false,
+                "LevelID": 35,
+                "LocationID": 197,
+                "Name": "Building Sitefinity Modules",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 1,
+                "TimeSlotID": 508,
+                "UKey": "297ae296-cadd-4e5d-81b9-2f5a422a7992"
+            },
+            {
+                "ID": 2239,
+                "ModifiedOn": "/Date(1321647538437+0000)/",
+                "Code": null,
+                "Description": "Peter is opinionated about testing. Mostly because people do it wrong. Learn all of the different ways to prevent catastrophic failures by utilizing the various testing paradigms.",
+                "IsSponsorSession": false,
+                "LevelID": 36,
+                "LocationID": 198,
+                "Name": "Software Testing Paradigms",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 1,
+                "TimeSlotID": 508,
+                "UKey": "331b0508-08e1-48fa-889e-5eff8e290577"
+            },
+            {
+                "ID": 4875,
+                "ModifiedOn": "/Date(1321648139497+0000)/",
+                "Code": "MOB-005",
+                "Description": "Learn how to build a universal binary with custom views for iPhone and iPad.",
+                "IsSponsorSession": false,
+                "LevelID": 36,
+                "LocationID": 195,
+                "Name": "Universal iOS Apps",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 1,
+                "TimeSlotID": 508,
+                "UKey": "bde3d0af-7478-41d5-9330-2d29187c7c5f"
+            },
+            {
+                "ID": 2238,
+                "ModifiedOn": "/Date(1321647573770+0000)/",
+                "Code": "BOF-003",
+                "Description": "What? You don't use continuous integration? Well first Rachel and Bary will scold you and explain why you should be using CruiseControl.NET . Then they will make you feel better by showing you how easy it is to set up and integrate with your source control provider.",
+                "IsSponsorSession": false,
+                "LevelID": null,
+                "LocationID": 198,
+                "Name": "Continuous Integration with CC.NET",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 2,
+                "TimeSlotID": 509,
+                "UKey": "7b892865-a763-4028-88a5-821fbf8ea68b"
+            },
+            {
+                "ID": 4876,
+                "ModifiedOn": "/Date(1321648092490+0000)/",
+                "Code": "ORC-001",
+                "Description": "Orchard is a free ASP.NET MVC based CMS. You can do amazing things with Orchard, but its default look and feel leave a lot to be desired. Join Matt as he teaches you how to transform your Orchard site into a memorable user experience.",
+                "IsSponsorSession": false,
+                "LevelID": 35,
+                "LocationID": 195,
+                "Name": "Cutomizing Orchard's Look and Feel",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 1,
+                "TimeSlotID": 509,
+                "UKey": "024e3855-b811-4cf5-ae3e-cf6a86184142"
+            },
+            {
+                "ID": 4072,
+                "ModifiedOn": "/Date(1315609485697+0000)/",
+                "Code": null,
+                "Description": "Explore the latest IDEs",
+                "IsSponsorSession": false,
+                "LevelID": 35,
+                "LocationID": 195,
+                "Name": "Intro to coding",
+                "RegistrationStartDate": null,
+                "RequiresRegistration": false,
+                "SessionTypeID": 3,
+                "TimeSlotID": 512,
+                "UKey": "76848f27-1c38-4bc1-a68a-4e60080823fc"
+            }
+        ],
+        "Speakers": [
+            {
+                "ID": 1985,
+                "ModifiedOn": "/Date(1330020509063+0000)/",
+                "Bio": "Adam Anderson is a Microsoft Certified Solution Developer with over 14 years of experience. He started as a consultant using Delphi to rapidly deliver custom, high-quality business solutions in a wide variety of industries. His later experiences afforded him the opportunity to become familiar with a number of different products, technologies, and disciplines, including SQL Server and T-SQL, Oracle and PL/SQL, Crystal Reports, SQL Reporting Services, Internet Information Services, .NET Framework, LINQ, Entity Framework, Command batch files, Windows Script Host, PowerShell, normalized relational database design, dynamic databases, and good object-oriented design based on design patterns and re-factoring.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Adam",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1985.jpg",
+                "LastName": "Anderson",
+                "Title": "Master Consultant",
+                "Twitter": "",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1987,
+                "ModifiedOn": "/Date(1330364548457+0000)/",
+                "Bio": "Bary’s career has taken him from the oil field services industry, to LCD research, and to the DOE. He’s served as a lead researcher, designer, and programmer on numerous systems that encompassed a wide range of technologies such as ultrasonics, eddy current, and down-hole viscosity measurements — all along the way using the latest software technologies to solve complex control and data imaging challenges. With numerous patents and engineering/scientific achievement awards he finds no challenge too hard to handle. During the spring he spends time chasing down severe storms, and in the summer spends time at the lake with his family. He also enjoys competing as an epee fencer along with his son and daughter. Bary has a BS in Electrical Engineering from Texas Tech University.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Bary",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1987.jpg",
+                "LastName": "Nusz",
+                "Title": "Software Architect",
+                "Twitter": "VetEpeeFencer",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1990,
+                "ModifiedOn": "/Date(1330020509497+0000)/",
+                "Bio": "Basem has over 10 years experience as a consultant and developer for dozens of projects for educational, advocacy, non-profit, small business, enterprise, and governmental organizations. As an innovator who recognizes and leverages the power of the web, he has been able to help real estate agencies, schools, hospitals, wholesale distributors, shipping carriers, and other businesses pioneer their industries utilizing the best that today’s technology has to offer from a more creative point of view. Simple yet elegant is the key to his approach, as well as the belief that continual process improvement is always possible. Basem has a BS in Computer Science from Florida Atlantic University and is a Microsoft Certified Solutions Developer, Systems Engineer, Technology Specialist, and Business Management Solutions Professional. His specialities include content management and e-commerce systems.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Basem",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1990.jpg",
+                "LastName": "Emara",
+                "Title": "Senior Software Engineer",
+                "Twitter": "",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1989,
+                "ModifiedOn": "/Date(1330364548480+0000)/",
+                "Bio": "Gary has nearly 20 years of software industry experience working in a variety of fields including insurance, marketing, medical, telecom, real estate, financial and manufacturing. He has also worked as a team lead on major software projects for Hewlett Packard and Johnson & Johnson. Gary's specialties include C#.NET, Delphi, Localization and Internationalization and database development. He holds a BS in Computer Science/Mathematics from California State University, Sacramento. When Gary is not in front of his computer he spends his spare time mountain biking, playing softball and coaching his two daughters in soccer and softball.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Gary",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1989.jpg",
+                "LastName": "Campbell",
+                "Title": "Senior Software Engineer",
+                "Twitter": "garychere",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1982,
+                "ModifiedOn": "/Date(1330364548507+0000)/",
+                "Bio": "John Waters is the lead architect and developer of a number of high profile software products and solutions, including the Velocity ERP system, the HC Standard Critical Asset Tracking system, and numerous financial software systems. John has spoken at conferences all over the world on topics ranging from Parallel Computing to Windows Phone development. Currently, John is working on Windows Azure Cloud Computing and Mobile Development. John previously founded and run several consulting companies in Sweden, and has worked at Falafel Software in California since 2003.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "John",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1982.jpg",
+                "LastName": "Waters",
+                "Title": "President",
+                "Twitter": "fljohwat",
+                "URL": "http://blog.falafel.com/Blogs/JohnWaters.aspx"
+            },
+            {
+                "ID": 1997,
+                "ModifiedOn": "/Date(1330020510080+0000)/",
+                "Bio": "Jonathan is a student at the University of California, Santa Cruz, studying Computer Engineering and Philosophy. He began his internship with Falafel in 2008, focusing most of his work on maintaining and administering the company’s networking infrastructure. With a love for all things technical, Jonathan feels right at home at Falafel, getting constant exposure to cutting edge technologies in the software and IT industries. In his spare time, Jonathan enjoys a good read, a challenging hike, observing wildlife, and playing music.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Jonathan",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1997.jpg",
+                "LastName": "Saad",
+                "Title": "Network Engineer",
+                "Twitter": "",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1991,
+                "ModifiedOn": "/Date(1330391717497+0000)/",
+                "Bio": "onathan--or J. as he is known to friends--enjoys the creative side of software development. With over eleven years of software development experience, his projects have included areas such as e-commerce, procurement, marketing, logistics, and manufacturing. Over the years, Jonathan has helped companies like Abbott Laboratories, LTD Commodities, and Uline Shipping Supplies to develop their enterprise software applications using technologies such as ASP.NET, SQL Server, and more recently WPF and Silverlight. Jonathan lives in Michigan, where he enjoys biking, backpacking, and photography. Jonathan has a Bachelor of Science degree in Computer Science from Taylor University.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Jonathan",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1991.jpg",
+                "LastName": "Tower",
+                "Title": "Software Engineer",
+                "Twitter": "jtowermi",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1995,
+                "ModifiedOn": "/Date(1330364548483+0000)/",
+                "Bio": "Josh has over 10 years of web and application development experience as a software engineer and consultant in various industries including distribution, financial services, marketing, and pharmaceuticals. He has experience in C# and ASP.NET and specializes in using Silverlight, RIA Services and Entity Framework to deliver enterprise-level dashboards, project scheduling integrations and logistics applications. Josh holds a BS in Computer Science/Business Systems from Taylor University and lives in Charlotte, NC. He enjoys traveling and spending time outdoors with his wife and children.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Josh",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1995.jpg",
+                "LastName": "Eastburn",
+                "Title": "Software Engineer",
+                "Twitter": "jeastburn",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1984,
+                "ModifiedOn": "/Date(1330020508977+0000)/",
+                "Bio": "Lance has over 20 years’ experience leading teams, architecting, and developing enterprise-level solutions for some of the world’s largest corporations. Prior to joining the Falafel team, Lance served as a Group Manager at Check Point Software Technologies. As a leader and engineer, he was responsible for scalability, performance, feature development, federation/clustering, and protocol work on the Check Point Endpoint Security Secure Access Server; which managed tens of thousands of desktop security installations. Prior to Check Point, Lance was CTO/Vice President of Technology at Full Moon Interactive and .class Corporation, where he was a recognized industry expert in Delphi, JBuilder, and Windows development; as well as a speaker, author, and trainer. Lance holds a B.S. in Computer Science/Mathematics from California State University Sacramento. In his spare time, Lance can usually be found at some random Bay Area sports venue, watching his sons in their various athletic pursuits.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Lance",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1984.jpg",
+                "LastName": "Bullock",
+                "Title": "Director of Mobile Solutions",
+                "Twitter": "",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1981,
+                "ModifiedOn": "/Date(1330020508710+0000)/",
+                "Bio": "Alain \"Lino\" Tadros is Chairman & CEO of Falafel Software, a Silicon Valley based company, with presence in Colorado and Texas, dedicated to providing world-class consulting, training, and software development for small, medium, and enterprise level businesses. Prior to founding Falafel, Lino was a member of the development team at Borland for Delphi and C++Builder. Mr. Tadros has been awarded Microsoft MVP status eight years in a row (2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011) for his numerous contributions to the C# community and is an expert in .NET, LINQ, ASP.NET, COM, and Web Services. Tadros is an industry renowned speaker and has given numerous presentations on 5 different continents since 1994. He also currently sits on the Board of Directors of 4 Silicon Valley corporations",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Lino",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1981.jpg",
+                "LastName": "Tadros",
+                "Title": "C.E.O",
+                "Twitter": "",
+                "URL": "http://blog.falafel.com/Blogs/LinoTadros.aspx"
+            },
+            {
+                "ID": 1993,
+                "ModifiedOn": "/Date(1330020509740+0000)/",
+                "Bio": "Matt has been involved in the arts his entire life. Attending art schools since he was 5, it was only natural that his career be surrounded by the creative. From layout, illustration, concept design, to photography and animation, he strives to keep on the cutting edge of contemporary design. Matt's specialties are in Web Design, User Interface Design, and Usability Design, implementing a full spectrum of software and programming languages including Html, CSS, JavaScript, Flash, Silverlight, Adobe, and many others. Matt's passions include surfing, photography, playing music, world travel, and new experiences.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Matt",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1993.jpg",
+                "LastName": "Kurvin",
+                "Title": "Graphic Designer",
+                "Twitter": "",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1986,
+                "ModifiedOn": "/Date(1332452784477+0000)/",
+                "Bio": "Although Mike cannot leap buildings in a single bound, he can practically absorb a client’s problem space; making their problem his. His uncanny ability to elicit requirements and then rapidly design and build a custom solution make this classically trained Computer Scientist from the University of Colorado a strong ally in the world of software development. His abilities were forged at Xapware Technologies working on countless projects that spanned the entire technological realm. Those skills were then tempered at Turbopower Software as a Senior Software Engineer for Borland’s number one component developer. Most recently, these abilities were honed at Aristocrat Technologies where Mike led teams through the design and development of an enterprise class casino management system. Now he is eager to assist you.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Mike",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1986.jpg",
+                "LastName": "Dugan",
+                "Title": "Product Manager",
+                "Twitter": "MikeDugan18",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1983,
+                "ModifiedOn": "/Date(1330364548497+0000)/",
+                "Bio": "Noel has over 14 years of experience in the software industry including numerous successful projects in the industries of medical, telecom, financial and manufacturing. Noel also worked as a lead developer on major projects for Hewlett Packard and Johnson & Johnson. Noel is considered a valuable worldwide resource on .NET. C#, Delphi internals, Java, J2ME, COM, SOAP, ASP.NET and Sockets development. Noel co-authored \"Using Delphi - special edition\" by Sybex and has written numerous articles on software development for top industry magazines. Noel is a Borland Certified Delphi and Kylix Developer & Trainer.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Noel",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1983.jpg",
+                "LastName": "Rice",
+                "Title": "VP of Software Services",
+                "Twitter": "NoelRice1",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1992,
+                "ModifiedOn": "/Date(1330020509670+0000)/",
+                "Bio": "Peter loves both the creative and technical sides of working with software, and is amazed by the speed with which it's possible to move from vague ideas to actual, working systems. He believes that software can be both fun to create and satisfying to use, and tries to always keep in mind that other people will be using his work. He has a varied work experience, having spent time as a teacher, trainer, translator, tester, and technologist. Peter has a BS in Computer Science from Queen's University in Kingston, Canada. He lives in somewhat sunny San Francisco and loves traveling, sports and languages (both computer and human).",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Peter",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1992.jpg",
+                "LastName": "Kinmond",
+                "Title": "Trainer",
+                "Twitter": "",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1988,
+                "ModifiedOn": "/Date(1330364548497+0000)/",
+                "Bio": "Rachel finds joy in meeting challenges in her career and her life. After deciding to pursue a career in electronics, and as one of only a handful of female students in her department, Rachel graduated at the top of her class with a BS in Electrical and Computer Engineering from Oklahoma State University. Two years after graduation, she was leading the software design team on a multi-million dollar testing system for the Department of Energy. Rachel has experience in circuitry design and automated test systems, but her true passion has always been for software. Rachel loves to spend time on a wake-board in the summer or a snowboard in the winter with her husband and friends.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Rachel",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1988.jpg",
+                "LastName": "Hagerman",
+                "Title": "Senior Software Engineer",
+                "Twitter": "rachel_hh",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1994,
+                "ModifiedOn": "/Date(1330364548500+0000)/",
+                "Bio": "Scott started a long time ago at Borland as a support engineer for C++, Delphi and BDE. He became the go-to guy for all database related issues in Borland products. Moving on to a start-up company during the dot com boom, Scott moved to web based technologies such as Javascript, DHTML, and Java. The company was then acquired by IBM where Scott continued his work on web based enterprise software products including WebSphere, DB2, and Flash/Flex. Always looking for a challenge, Scott worked on many new technologies that were used by other technical groups and companies with great success. C#, .NET, MSSQL, Silverlight, Entity Framework and RIA Services has been his focus recently. During this time Scott started a family including two children with a wonderful wife. In his spare time Scott likes to go jogging with friends, go mountain bike riding and have fun with the kids.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Scott",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1994.jpg",
+                "LastName": "Frolich",
+                "Title": "Software Engineer",
+                "Twitter": "sfrolinda",
+                "URL": "http://www.falafel.com"
+            },
+            {
+                "ID": 1996,
+                "ModifiedOn": "/Date(1330020510000+0000)/",
+                "Bio": "Sean comes in with almost over 20 years experience of accounting and management skills including all aspects of billing, A/R and A/P general ledger postings, and payroll processing. Also, he’s very efficient in optimized bookkeeping principles, debits, credits, taxes and closings. Sean’s specialties include proven problem-solving, analytical and creative thinking skills, ability to function with a do-whatever-it-takes attitude, strong capability to manage multiple projects simultaneously. Sean has a passion for traveling, hiking, photographing and exploring any mountain state that has alpine lakes and waterfalls, he loves to play tennis, ping pong and beach volleyball.",
+                "Company": "Falafel Software Inc.",
+                "FirstName": "Sean",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/speaker1996.jpg",
+                "LastName": "Samuel",
+                "Title": "QA Manager",
+                "Twitter": "",
+                "URL": "http://www.falafel.com"
+            }
+        ],
+        "Sponsors": [
+            {
+                "ID": 4,
+                "ModifiedOn": "/Date(1334942045670+0000)/",
+                "Category": 1,
+                "Description": "Located in Scottsdale Arizona, privately held Axosoft s a leading provider of project management soultions for software development teams. Our flagship product, OnTime, stands out with industry-leading innovations, an intuitive interface, and state-of-the-art technology. OnTime is in use by over 7,000 development teams in ISV, Consulting and IT organizations in more than 55 countries around the world. We are Software Engineers to the core.",
+                "LogoURL": "http://cdn.eventboard.falafel.com/falafelcondemo/sponsorlogo4.png",
+                "Name": "Axosoft",
+                "Twitter": "",
+                "URL": "http://www.axosoft.com/",
+                "Showcase": false,
+                "SponsorshipLevelID": 3
+            },
+            {
+                "ID": 1,
+                "ModifiedOn": "/Date(1335969846873+0000)/",
+                "Category": 1,
+                "Description": "Falafel Software, Inc. provides the highest quality software development, consultation, and training services available.  Employees include best-selling authors, industry speakers, technology decision makers, and former Microsoft and Borland engineers. All of Falafel engineers are Microsoft Certified Professionals, Certified Application Developers, or Most Valuable Professionals. \r\n\r\nFalafel Software also offers world-class web, application, and UI design services. Our experienced design team can help to design, develop, or troubleshoot existing systems, as well as build from the ground up. We utilize Sitefinity CMS for our Content Management System of choice, and are seasoned experts in Telerik and Silverlight UI development and Skinning.",
+                "LogoURL": "http://cdn.eventboard.falafel.com/falafelcondemo/sponsorlogo1.png",
+                "Name": "Falafel Software Inc.",
+                "Twitter": "falafelsoftware",
+                "URL": "http://www.falafel.com/",
+                "Showcase": true,
+                "SponsorshipLevelID": 1
+            },
+            {
+                "ID": 6,
+                "ModifiedOn": "/Date(1334942045670+0000)/",
+                "Category": 1,
+                "Description": "At JetBrains, we have a passion for making people more productive through smart software solutions that help them focus more on what they really want to accomplish, and less on mundane, repetitive \"computer busy work\". We think you will find that our products reflect our dedication to this ideal.",
+                "LogoURL": "http://cdn.eventboard.falafel.com/falafelcondemo/sponsorlogo6.png",
+                "Name": "JetBrains",
+                "Twitter": "",
+                "URL": "http://www.jetbrains.com/",
+                "Showcase": false,
+                "SponsorshipLevelID": 3
+            },
+            {
+                "ID": 286,
+                "ModifiedOn": "/Date(1335969855813+0000)/",
+                "Category": 1,
+                "Description": "At Microsoft, we're motivated and inspired every day by how our customers use our software to find creative solutions to business problems, develop breakthrough ideas, and stay connected to what's most important to them. We are committed long term to the mission of helping our customers realize their full potential. Just as we constantly update and improve our products, we want to continually evolve our company to be in the best position to accelerate new technologies as they emerge and to better serve our customers.",
+                "LogoURL": "http://cdn.eventboard.falafel.com/falafelcondemo/sponsorlogo286.png",
+                "Name": "Microsoft",
+                "Twitter": "Microsoft",
+                "URL": "http://www.microsoft.com",
+                "Showcase": true,
+                "SponsorshipLevelID": 1
+            },
+            {
+                "ID": 5,
+                "ModifiedOn": "/Date(1334942045670+0000)/",
+                "Category": 1,
+                "Description": "Since 1999, Red Gate Software has produced ingeniously simple tools for over 500,000 Microsoft technology professionals worldwide. We currently specialize in MS SQL Server, Oracle, .NET and email archiving tools.",
+                "LogoURL": "http://cdn.eventboard.falafel.com/falafelcondemo/sponsorlogo5.png",
+                "Name": "RedGate",
+                "Twitter": "",
+                "URL": "http://www.red-gate.com/",
+                "Showcase": false,
+                "SponsorshipLevelID": 3
+            },
+            {
+                "ID": 3,
+                "ModifiedOn": "/Date(1334942045670+0000)/",
+                "Category": 1,
+                "Description": "At SmartBear Software, we are wholly focused on providing software developers, quality assurance engineers and IT professionals with powerful, affordable, and easy to use tools that make people more productive and help develop better software.",
+                "LogoURL": "http://cdn.eventboard.falafel.com/falafelcondemo/sponsorlogo3.png",
+                "Name": "SmartBear",
+                "Twitter": "",
+                "URL": "http://smartbear.com/",
+                "Showcase": false,
+                "SponsorshipLevelID": 2
+            },
+            {
+                "ID": 2,
+                "ModifiedOn": "/Date(1335969864017+0000)/",
+                "Category": 1,
+                "Description": "Telerik is the leading vendor of developer, QA, agile project management and web content management products. Best known for our UI controls and components for ASP.NET AJAX, ASP.NET MVC, Silverlight, Windows Phone (WP7), WPF and WinForms, Telerik provides developers with the essential set of tools for the UI and data access layers as well as tools for report generation, code analysis, refactoring and TDD. Combined with our products for testing and team productivity, Telerik offers an end-to-end solution to build applications with unparalleled richness, responsiveness and interactivity. Telerik products help thousands of companies be more productive and deliver reliable applications under budget and on time.",
+                "LogoURL": "http://cdn.eventboard.falafel.com/falafelcondemo/sponsorlogo2.png",
+                "Name": "Telerik",
+                "Twitter": "telerikbuzz",
+                "URL": "http://www.telerik.com/",
+                "Showcase": true,
+                "SponsorshipLevelID": 2
+            }
+        ],
+        "SponsorshipLevels": [
+            {
+                "ID": 1,
+                "ModifiedOn": "/Date(1330020527690+0000)/",
+                "Description": "Gold: These companies have made large financial donations to the conference.",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/sponsorshiplevel1.png",
+                "Name": "Gold",
+                "Rank": 1
+            },
+            {
+                "ID": 2,
+                "ModifiedOn": "/Date(1330020527780+0000)/",
+                "Description": "Silver: These sponsors have picked up the meal tabs for all attendees.",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/sponsorshiplevel2.png",
+                "Name": "Silver",
+                "Rank": 2
+            },
+            {
+                "ID": 3,
+                "ModifiedOn": "/Date(1330020527863+0000)/",
+                "Description": "Bronze: These companies have sponsored 1 or more individual session.",
+                "ImageURL": "http://cdn.eventboard.falafel.com/falafelcondemo/sponsorshiplevel3.png",
+                "Name": "Bronze",
+                "Rank": 3
+            }
+        ],
+        "SurveyQuestions": [
+            {
+                "ID": 7,
+                "ModifiedOn": "/Date(1315526925360+0000)/",
+                "IsAnswerRequired": true,
+                "QuestionText": "Rate this session overall, please",
+                "QuestionType": 1,
+                "SortOrder": 1
+            },
+            {
+                "ID": 8,
+                "ModifiedOn": "/Date(1315526925447+0000)/",
+                "IsAnswerRequired": false,
+                "QuestionText": "Did the tech content meet your expectations?",
+                "QuestionType": 0,
+                "SortOrder": 2
+            },
+            {
+                "ID": 9,
+                "ModifiedOn": "/Date(1315526925530+0000)/",
+                "IsAnswerRequired": false,
+                "QuestionText": "Please rate the speaker's presentation skills",
+                "QuestionType": 1,
+                "SortOrder": 3
+            },
+            {
+                "ID": 10,
+                "ModifiedOn": "/Date(1315526925610+0000)/",
+                "IsAnswerRequired": false,
+                "QuestionText": "Would you recommenend this speaker for future events?",
+                "QuestionType": 0,
+                "SortOrder": 4
+            },
+            {
+                "ID": 11,
+                "ModifiedOn": "/Date(1315526925717+0000)/",
+                "IsAnswerRequired": false,
+                "QuestionText": "Did this speaker try to sell you anything?",
+                "QuestionType": 0,
+                "SortOrder": 5
+            },
+            {
+                "ID": 14,
+                "ModifiedOn": "/Date(1316124573033+0000)/",
+                "IsAnswerRequired": false,
+                "QuestionText": "Your conference experience in 1 word?",
+                "QuestionType": 2,
+                "SortOrder": 6
+            },
+            {
+                "ID": 12,
+                "ModifiedOn": "/Date(1315526925800+0000)/",
+                "IsAnswerRequired": false,
+                "QuestionText": "Comments",
+                "QuestionType": 3,
+                "SortOrder": 7
+            }
+        ],
+        "Tags": [
+            {
+                "ID": 2899,
+                "ModifiedOn": "/Date(1330020524137+0000)/",
+                "Name": "AJAX"
+            },
+            {
+                "ID": 2894,
+                "ModifiedOn": "/Date(1330020523750+0000)/",
+                "Name": "Android"
+            },
+            {
+                "ID": 2902,
+                "ModifiedOn": "/Date(1330020524370+0000)/",
+                "Name": "ASP.NET"
+            },
+            {
+                "ID": 2910,
+                "ModifiedOn": "/Date(1330020524950+0000)/",
+                "Name": "CMS"
+            },
+            {
+                "ID": 2907,
+                "ModifiedOn": "/Date(1330020524700+0000)/",
+                "Name": "Continuous Integration"
+            },
+            {
+                "ID": 2898,
+                "ModifiedOn": "/Date(1330020524057+0000)/",
+                "Name": "CSS"
+            },
+            {
+                "ID": 2905,
+                "ModifiedOn": "/Date(1330020524527+0000)/",
+                "Name": "Expression Blend"
+            },
+            {
+                "ID": 2901,
+                "ModifiedOn": "/Date(1330020524293+0000)/",
+                "Name": "Fireworks"
+            },
+            {
+                "ID": 2896,
+                "ModifiedOn": "/Date(1330020523903+0000)/",
+                "Name": "HTML 5"
+            },
+            {
+                "ID": 2893,
+                "ModifiedOn": "/Date(1330020523637+0000)/",
+                "Name": "iPhone"
+            },
+            {
+                "ID": 2897,
+                "ModifiedOn": "/Date(1330020523980+0000)/",
+                "Name": "Javascript"
+            },
+            {
+                "ID": 2917,
+                "ModifiedOn": "/Date(1330020525443+0000)/",
+                "Name": "OData"
+            },
+            {
+                "ID": 2906,
+                "ModifiedOn": "/Date(1330020524613+0000)/",
+                "Name": "OpenStack"
+            },
+            {
+                "ID": 2911,
+                "ModifiedOn": "/Date(1330020525030+0000)/",
+                "Name": "PaaS"
+            },
+            {
+                "ID": 2900,
+                "ModifiedOn": "/Date(1330020524217+0000)/",
+                "Name": "Photoshop"
+            },
+            {
+                "ID": 2913,
+                "ModifiedOn": "/Date(1330020525197+0000)/",
+                "Name": "REST"
+            },
+            {
+                "ID": 2912,
+                "ModifiedOn": "/Date(1330020525117+0000)/",
+                "Name": "SasS"
+            },
+            {
+                "ID": 2909,
+                "ModifiedOn": "/Date(1330020524867+0000)/",
+                "Name": "Silverlight"
+            },
+            {
+                "ID": 2916,
+                "ModifiedOn": "/Date(1330020525357+0000)/",
+                "Name": "Sitefinity"
+            },
+            {
+                "ID": 2908,
+                "ModifiedOn": "/Date(1330020524790+0000)/",
+                "Name": "SQL Server"
+            },
+            {
+                "ID": 2915,
+                "ModifiedOn": "/Date(1330020525277+0000)/",
+                "Name": "Testing"
+            },
+            {
+                "ID": 2903,
+                "ModifiedOn": "/Date(1330020524447+0000)/",
+                "Name": "Windows Azure"
+            },
+            {
+                "ID": 2895,
+                "ModifiedOn": "/Date(1330020523830+0000)/",
+                "Name": "Windows Phone 7"
+            }
+        ],
+        "Timeslots": [
+            {
+                "ID": 156,
+                "ModifiedOn": "/Date(1346178027367+0000)/",
+                "Description": "Mon Registration",
+                "EndTime": "/Date(1343984400000)/",
+                "StartTime": "/Date(1343980800000)/"
+            },
+            {
+                "ID": 158,
+                "ModifiedOn": "/Date(1346178027367+0000)/",
+                "Description": "Mon Keynote",
+                "EndTime": "/Date(1343988000000)/",
+                "StartTime": "/Date(1343984400000)/"
+            },
+            {
+                "ID": 157,
+                "ModifiedOn": "/Date(1346178027367+0000)/",
+                "Description": "Mon Morning Sessions",
+                "EndTime": "/Date(1343994300000)/",
+                "StartTime": "/Date(1343988900000)/"
+            },
+            {
+                "ID": 159,
+                "ModifiedOn": "/Date(1346178027367+0000)/",
+                "Description": "Mon Lunch - Prize Drawing",
+                "EndTime": "/Date(1343998800000)/",
+                "StartTime": "/Date(1343995200000)/"
+            },
+            {
+                "ID": 160,
+                "ModifiedOn": "/Date(1346178027367+0000)/",
+                "Description": "Mon Afternoon Sessions",
+                "EndTime": "/Date(1344003300000)/",
+                "StartTime": "/Date(1343999700000)/"
+            },
+            {
+                "ID": 748,
+                "ModifiedOn": "/Date(1346178027367+0000)/",
+                "Description": "Mon Evening Event",
+                "EndTime": "/Date(1344031200000)/",
+                "StartTime": "/Date(1344013200000)/"
+            },
+            {
+                "ID": 161,
+                "ModifiedOn": "/Date(1346178027367+0000)/",
+                "Description": "Tues Morning Sessions",
+                "EndTime": "/Date(1344074400000)/",
+                "StartTime": "/Date(1344070800000)/"
+            },
+            {
+                "ID": 162,
+                "ModifiedOn": "/Date(1346178027367+0000)/",
+                "Description": "Tues Lunch",
+                "EndTime": "/Date(1344085200000)/",
+                "StartTime": "/Date(1344081600000)/"
+            },
+            {
+                "ID": 163,
+                "ModifiedOn": "/Date(1346178027367+0000)/",
+                "Description": "Tues 1:15PM to 2:15PM",
+                "EndTime": "/Date(1344089700000)/",
+                "StartTime": "/Date(1344086100000)/"
+            },
+            {
+                "ID": 508,
+                "ModifiedOn": "/Date(1346178027367+0000)/",
+                "Description": "Tues 2:30PM to 3:30PM",
+                "EndTime": "/Date(1344094200000)/",
+                "StartTime": "/Date(1344090600000)/"
+            },
+            {
+                "ID": 509,
+                "ModifiedOn": "/Date(1346178027367+0000)/",
+                "Description": "Tues 3:45PM to 4:45PM",
+                "EndTime": "/Date(1344098700000)/",
+                "StartTime": "/Date(1344095100000)/"
+            },
+            {
+                "ID": 512,
+                "ModifiedOn": "/Date(1346178027367+0000)/",
+                "Description": "Late Night Workshop",
+                "EndTime": "/Date(1344117600000)/",
+                "StartTime": "/Date(1344110400000)/"
+            }
+        ],
+        "Tracks": [
+            {
+                "ID": 123,
+                "ModifiedOn": "/Date(1330020523080+0000)/",
+                "Color": "#66CC00",
+                "Description": "Classes that will help you move your desktop applications to the cloud.",
+                "Name": "Cloud Development"
+            },
+            {
+                "ID": 124,
+                "ModifiedOn": "/Date(1330020523157+0000)/",
+                "Color": "#0099CC",
+                "Description": "Sessions for graphic designers looking to get the most out of their tools.",
+                "Name": "Graphic Design"
+            },
+            {
+                "ID": 121,
+                "ModifiedOn": "/Date(1330020522917+0000)/",
+                "Color": "#FFFF00",
+                "Description": "Learn to develop mobile applications for all of the major platforms.",
+                "Name": "Mobile Development"
+            },
+            {
+                "ID": 122,
+                "ModifiedOn": "/Date(1336749405840+0000)/",
+                "Color": "#FF0000",
+                "Description": "For programmers looking to learn the latest and greatest techniques used in web development.",
+                "Name": "Web Development"
+            }
+        ],
+        "Vendors": [
+            {
+                "ID": 12,
+                "ModifiedOn": "/Date(1315533074827+0000)/",
+                "Category": 0,
+                "Description": "Customers are at the core of everything we do. We listen carefully to their needs and desires and collaborate to find new ways to make technology work harder for them. \r\n\r\nIn all we do, we're focused on delivering solutions to enable smarter decisions and more effective outcomes so our customers can overcome obstacles, achieve their ideas and pursue their dreams. Above all, we are committed to the superior long-term value they need to grow and thrive.",
+                "LogoURL": "http://cdn.eventboard.falafel.com/falafelcondemo/Vendorlogo12.png",
+                "Name": "Dell",
+                "Twitter": "Dell",
+                "URL": "http://www.dell.com/",
+                "Booth": "500"
+            },
+            {
+                "ID": 11,
+                "ModifiedOn": "/Date(1315533074730+0000)/",
+                "Category": 0,
+                "Description": "FedEx is committed to providing outstanding customer experience, to being a great place to work, a thoughtful steward of the environment and a caring citizen in the communities where we live and work. At FedEx, we are passionate about sustainably connecting people and places and improving the quality of life around the world.",
+                "LogoURL": "http://cdn.eventboard.falafel.com/falafelcondemo/Vendorlogo11.png",
+                "Name": "FedEx",
+                "Twitter": "FedExDelivers",
+                "URL": "http://www.fedex.com/",
+                "Booth": "400"
+            },
+            {
+                "ID": 10,
+                "ModifiedOn": "/Date(1315533074643+0000)/",
+                "Category": 0,
+                "Description": "Mashable is the largest independent online news site dedicated to covering digital culture, social media and technology. With more than 20 million unique monthly visitors, Mashable has one of the most engaged online news communities. Founded in 2005, Mashable is headquartered in New York City with an office in San Francisco.",
+                "LogoURL": "http://cdn.eventboard.falafel.com/falafelcondemo/Vendorlogo10.png",
+                "Name": "Mashable",
+                "Twitter": "mashable",
+                "URL": "http://mashable.com/",
+                "Booth": "300"
+            },
+            {
+                "ID": 8,
+                "ModifiedOn": "/Date(1315533074477+0000)/",
+                "Category": 0,
+                "Description": "Worlds largest collection of technical books.",
+                "LogoURL": "http://cdn.eventboard.falafel.com/falafelcondemo/Vendorlogo8.png",
+                "Name": "O'Reilly",
+                "Twitter": "OReillyMedia",
+                "URL": "",
+                "Booth": "100"
+            },
+            {
+                "ID": 9,
+                "ModifiedOn": "/Date(1315533074560+0000)/",
+                "Category": 0,
+                "Description": "",
+                "LogoURL": "http://cdn.eventboard.falafel.com/falafelcondemo/Vendorlogo9.png",
+                "Name": "Xerox",
+                "Twitter": "Xerox",
+                "URL": "",
+                "Booth": "200"
+            }
+        ]
+    },
+    "ConferenceInfo": {
+        "ID": 18,
+        "ModifiedOn": "/Date(-62135596800000+0000)/",
+        "ACSNamespace": null,
+        "ACSRealm": null,
+        "AccentColor": "66CCFF",
+        "AdUnitID": "10011702",
+        "AllowAnonymousFeedback": true,
+        "Altitude": 2,
+        "BaseName": "falafelcondemo",
+        "DataVersion": 124,
+        "Description": "Welcome to FalafelCon! Explore this demo conference to learn about the features of EventBoard.With EventBoard, the paper conference catalog is a thing of the past. This mobile application allows you to read detailed information about conference sessions and speakers directly on your phone. Finding interesting sessions is an effortless task with the many filter options available. Once found, you can bookmark or register for a session and later rate that session directly on the mobile device. If you are an organizer of a conference, you will find the two way communication capabilities of EventBoard to be invaluable. Attendees will never miss a conference update because catalog changes can be delivered electronically to their phones. Session registration and session ratings provide immediate information, allowing you to prepare for attendance demands and evaluate the success of each and every session.\r\rThank you from Falafel Software!",
+        "EndDate": "/Date(1344038400000)/",
+        "FacebookURL": "http://www.facebook.com/falafelsoftware",
+        "FeatureLevel": "3",
+        "FlickrHandle": "60814787@N08",
+        "HasAudiences": true,
+        "HasFeedback": true,
+        "HasFloorPlans": true,
+        "HasLevels": true,
+        "HasSessionTypes": true,
+        "HasSponsors": true,
+        "HasTags": true,
+        "HasTracks": true,
+        "HasVendors": true,
+        "HashTagList": "#falafelsoftware,#eventboard, #eventboardapp",
+        "IsFavoritesVisible": true,
+        "IsRoomVisible": true,
+        "IsTimeslotVisible": true,
+        "IsWillAttendVisible": false,
+        "Latitude": 36.975926,
+        "LinkedInURL": "http://www.linkedin.com/company/89962",
+        "Location": "Capitola, CA",
+        "LocationFriendly": "Capitola, CA",
+        "Longitude": -121.953336,
+        "Name": "FalafelCon Demo",
+        "PrivateLabel": null,
+        "RSSURL": "http://eventboardmobile.blogspot.com/feeds/posts/default?alt=rss",
+        "ShortName": "FALAFELCON DEMO",
+        "SponsorRotationSeconds": 7,
+        "StartDate": "/Date(1343952000000)/",
+        "TimeOffsetMinutes": -420,
+        "TwitterScreenName": "eventboardapp",
+        "WebSiteURL": "http://www.eventboardmobile.com/"
+    }
+}
